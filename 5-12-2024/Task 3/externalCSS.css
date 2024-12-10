@@ -1,0 +1,56 @@
+
+body
+{
+    background-color: #fff7f0;
+}
+.set1
+{
+    border: 1px solid;
+    width: 700px;
+    background-color: white;
+}
+.set2
+{
+    border: 2px dashed;
+    width: 700px;
+    background-color: white;
+}
+.p2
+{
+    border: 2px dashed red;
+}
+.set3
+{
+    border: 1px solid;
+    width: 700px;
+    background-color: white;   
+}
+.thirdHeader
+{
+    color: red;
+}
+.p3
+{
+    color: red;
+}
+.p1 > strong
+{
+    background-color: orange;
+}
+.p1 .subp1
+{
+    background-color: yellow;
+}
+.p2 > strong
+{
+    background-color: orange;
+}
+.p2 .subp2
+{
+    background-color: yellow;
+}
+.p3 > strong
+{
+    background-color: yellow;
+}
+
